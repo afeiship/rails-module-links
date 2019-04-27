@@ -1,24 +1,6 @@
-# README
+# rails-module-links
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## resources
+- https://medium.com/@ebifurai_tsn/active-storage-after-rails-5-2-26ad89c93b57
+- https://afreshcup.com/home/2017/07/23/activestorage-samples
